@@ -50,7 +50,7 @@ export default class About extends Component {
                                 </li>
                                 <li>
                                     <strong>Website:</strong>
-                                    <span>www.kardswebsite.com</span>
+                                    <span>https://personal-portfolio-bice-one.vercel.app/</span>
                                 </li>
                                 <li>
                                     <strong>Email:</strong>
