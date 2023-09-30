@@ -524,7 +524,6 @@ select {
 	padding: 1.5rem 0;
 	border: 0;
 	outline: none;
-	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.5rem;
@@ -2103,7 +2102,7 @@ header .logo a {
 	padding-bottom: 12rem;
 	color: white;
 	position: relative;
-	margin-top: 10px;
+	margin-top: 5px;
 }
 #services .overlay {
 	position: absolute;
@@ -2324,7 +2323,6 @@ header .logo a {
 	border-right: 5px solid #FF0077;
 	content: "";
 }
-
 #contact input[type="text"],
 #contact input[type="password"],
 #contact input[type="email"],

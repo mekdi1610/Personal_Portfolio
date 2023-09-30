@@ -14,7 +14,7 @@ export default class About extends Component {
 
                             <div className="intro-info">
 
-                                <img src="images/me3.jpg" alt="Profile Picture" />
+                                <img src="images/me3.jpg" alt=""/>
 
                                 <p className="lead">Hello,
                                     My name is Mekdelawit Mamushet, and I am a developer with three years of experience since graduating from HiLCoE School of Computer Science. During this time, I have worked on various projects and real-world applications, 
